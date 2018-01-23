@@ -9,9 +9,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/chanxuehong/util"
+	"github.com/gavinzhs/util"
 
-	"github.com/gavinzhs/wechat/internal/debug/mch/api"
+	"wechat/internal/debug/mch/api"
 	wechatutil "gopkg.in/chanxuehong/wechat.v2/util"
 )
 
