@@ -11,7 +11,7 @@ import (
 
 	"github.com/gavinzhs/util"
 
-	"wechat/internal/debug/mch/api"
+	"github.com/gavinzhs/wechat/internal/debug/mch/api"
 	wechatutil "gopkg.in/chanxuehong/wechat.v2/util"
 )
 
