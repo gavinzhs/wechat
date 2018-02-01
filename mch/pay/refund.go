@@ -5,7 +5,7 @@ import (
 	"strconv"
 
 	"github.com/gavinzhs/wechat/mch/core"
-	wechatutil "github.com/gavinzhs/util"
+	wechatutil "gopkg.in/chanxuehong/wechat.v2/util"
 )
 
 // Refund 申请退款.
