@@ -1,8 +1,8 @@
 package pay
 
 import (
-	"gopkg.in/chanxuehong/wechat.v2/mch/core"
-	"gopkg.in/chanxuehong/wechat.v2/util"
+	"github.com/gavinzhs/wechat/mch/core"
+	"github.com/gavinzhs/wechat/util"
 )
 
 // CloseOrder 关闭订单.

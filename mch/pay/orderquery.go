@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"time"
 
-	"gopkg.in/chanxuehong/wechat.v2/mch/core"
-	wechatutil "gopkg.in/chanxuehong/wechat.v2/util"
+	"github.com/gavinzhs/wechat/mch/core"
+	wechatutil "github.com/gavinzhs/wechat/util"
 )
 
 // OrderQuery 查询订单.
