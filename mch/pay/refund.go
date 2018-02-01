@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"gopkg.in/chanxuehong/wechat.v2/mch/core"
+	"github.com/gavinzhs/wechat/mch/core"
 	wechatutil "gopkg.in/chanxuehong/wechat.v2/util"
 )
 
